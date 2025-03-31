@@ -22,7 +22,7 @@ The Asset Record Review System aims to enhance asset lifecycle management by int
 #### In Scope:
 
 * Integration of SCCM, AD, MDM, Intune, and SolarWinds with ServiceNow.
-* API-based integration with HP, Dell, and Lenovo warranty data.
+* API-based integration with HP, Dell, Lenovo and Cisco warranty data.
 * Implementation of automated comparison logic to identify discrepancies and make asset lifecycle recommendations.
 * Development of reporting dashboards in ServiceNow for real-time insights.
 * Role-based access control for asset management and review functionalities.
