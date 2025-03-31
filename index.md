@@ -69,12 +69,12 @@ The Asset Record Review System aims to enhance asset lifecycle management by int
 
 ### Key Stakeholders
 
-Project Sponsor: IT Leadership
-Project Manager: Infomration Security Manager
-IT Asset Management Team
-Security & Compliance Team
-ServiceNow Administrators
-Infrastructure & Operations Team
+* Project Sponsor: IT Leadership
+* Project Owner: Infomration Security Manager
+* IT Asset Management Team
+* Security & Compliance Team
+* ServiceNow Administrators
+* Infrastructure & Operations Team
 
 ### Assumptions & Constraints
 
